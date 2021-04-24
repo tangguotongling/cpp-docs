@@ -39,12 +39,16 @@ The instructions for how to create the project vary depending on your version of
 1. At the top of the dialog, set  **Language** to **C++**, set **Platform** to **Windows**, and set **Project type** to **Library**.
 
 1. From the filtered list of project types, select **Windows Desktop Wizard**, then choose **Next**.
+![image](https://user-images.githubusercontent.com/39935918/115943442-9425c700-a4e2-11eb-8b2f-dbf78026a005.png)
+
 
 1. In the **Configure your new project** page, enter *MathLibrary* in the **Project name** box to specify a name for the project. Enter *StaticMath* in the **Solution name** box. Choose the **Create** button to open the **Windows Desktop Project** dialog.
+![image](https://user-images.githubusercontent.com/39935918/115943489-d2bb8180-a4e2-11eb-9d5e-d3133692fa29.png)
 
 1. In the **Windows Desktop Project** dialog, under **Application type**, select **Static Library (.lib)**.
 
 1. Under **Additional options**, uncheck the **Precompiled header** check box if it's checked. Check the **Empty project** box.
+![image](https://user-images.githubusercontent.com/39935918/115943572-4198da80-a4e3-11eb-9715-76fe95f13739.png)
 
 1. Choose **OK** to create the project.
 
